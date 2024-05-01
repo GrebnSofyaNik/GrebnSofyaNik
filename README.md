@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1 align="center">Hi there, I'm Sofya Grebneva 👋</h1>
+  <h1 align="center">Hi there, I'm Sofya Grebneva </h1>
 </div>
 
 ### :woman_technologist: About Me
@@ -25,7 +25,21 @@ ___
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 
+___ 
+
+### Tools
+
+<img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
+<img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=fff" />
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;
+
+
 ___
+
 
 ### About Me
 
