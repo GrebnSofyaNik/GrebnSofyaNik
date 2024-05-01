@@ -1,5 +1,14 @@
-## Sofya Grebneva
+<div id="header" align="center">
+  <h1 align="center">Hi there, I'm Sofya Grebneva 👋</h1>
+</div>
 
+### :woman_technologist: About Me
+I'm Frontend(Angular) developer from Minsk, Belarus.
+
+- 🌱 I’m currently improving my skills and creating new pet-projects
+- 📚 In my free time I learn English
+- <div> 🧩 I like to solve puzzles and I solve codewars kata regularly
+- I like CTF competition
 ___
 
 ### Programming Languages
@@ -34,3 +43,19 @@ ___
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/flatulek)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sofya_grebneva)
+<img alt="Email" src="https://img.shields.io/badge/mail-E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:grebneva.sofya.nik@mail.ru)
+
+### ⚙️ Analytics
+
+<div>
+      <img height="160em" align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=GrebnSofyaNik&theme=slateorange&show_icons=true" />
+      <img height="160em" align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrebnSofyaNik&layout=compact&theme=slateorange" />
+</div>
+
+
+<!-- 
+Полезные ссылки
+эмодзи https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+алгоритм оформления https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17  
+-->
+
