@@ -3,7 +3,7 @@
 </div>
 
 ### :woman_technologist: About Me
-I'm Frontend(Angular) developer from Minsk, Belarus.
+I'm from Novosibirsk.
 
 - 🌱 I’m currently improving my skills and creating new pet-projects
 - 📚 In my free time I learn English
