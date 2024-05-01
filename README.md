@@ -2,15 +2,6 @@
   <h1 align="center">Hi there, I'm Sofya Grebneva </h1>
 </div>
 
-### :woman_technologist: About Me
-I'm from Novosibirsk.
-
-- 🌱 I’m currently improving my skills and creating new pet-projects
-- 📚 In my free time I learn English
-- <div> 🧩 I like to solve puzzles and I solve codewars kata regularly
-- I like CTF competition
-___
-
 ### Programming Languages
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
