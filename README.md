@@ -27,6 +27,8 @@ ___
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;
+<img alt="Miro" src="https://img.shields.io/badge/Miro-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;
+
 
 
 ___
