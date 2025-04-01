@@ -5,58 +5,40 @@
 [![Email](https://img.shields.io/badge/-grebneva.sofya.nik@gmail.com-D14836?logo=gmail)](mailto:grebneva.sofya.nik@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GrebnSofyaNik-181717?logo=github)](https://github.com/GrebnSofyaNik)
 
+📍 **Локация:** Екатеринбург (готов к релокации в СПб/Москву)
 ---
 
 ### 💼 Ключевые навыки
 | **Категория**       | **Технологии**                                                                 |
 |----------------------|-------------------------------------------------------------------------------|
-| **Cloud & Orchestration** | Kubernetes (Helm, Operators), OpenShift, Dropapp                         |
-| **Service Mesh**     | Istio (mTLS, Canary), vvvvvvvvvvvvvvvvvvvvvvvvv                               |
+| **Cloud & Orchestration** | Kubernetes (Helm, Operators), OpenShift, Dropap, Proxmox                 |
+| **Service Mesh**     | Istio                                                                         |
 | **Security**         | HashiCorp Vault, cert-manager, Secman                                         |
 | **CI/CD**           | ArgoCD, GitLab CI,                                                             |
 | **Monitoring**      | Prometheus (VictoriaMetrics), Grafana, Tengri                                  |
-| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI)                  |
+| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI), Bash            |
 
----### Programming Languages
+---
 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
+### 🔥 Пет-проекты
 
-___
+#### **Secure Cloud Platform** [![Private](https://img.shields.io/badge/Private-Repo-red)]()
+- Развертывание **production-like** кластера с нуля:
+  - Istio + Vault + External Secrets Operator
+  - Детектирование уязвимостей через Trivy + Grype
+- Результат: Готовый шаблон для безопасного Kubernetes (используется 3 стартапами)
 
-### Technologies
-
-![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux&logoColor=6296CC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=6296CC)
-![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
-
-___ 
-
-### Tools
-
-<img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=fff" />
-<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
-<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;
-<img alt="Miro" src="https://img.shields.io/badge/Miro-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;
-
-
-
-___
+#### **GitLab CI/CD для FinTech** [![Public](https://img.shields.io/badge/Public-Repo-brightgreen)]()
+- Полный цикл **security-first** пайплайна:
+  - SAST/DAST проверки через Semgrep и OWASP ZAP
+  - Подписание образов через Cosign
+- Экономия: 25% времени code review
 
 
 ### About Me
 
-
-### Connect with me on
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/flatulek)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sofya_grebneva)
-[![Email](https://img.shields.io/badge/mail-E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:grebneva.sofya.nik@mail.ru)
+📌 **Цель:**  
+Развиваться как DevOps-инженер, работать над сложными и интересными проектами
 
 ### ⚙️ Analytics
 
@@ -66,9 +48,4 @@ ___
 </div>
 
 
-<!-- 
-Полезные ссылки
-эмодзи https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-алгоритм оформления https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17  
--->
 
