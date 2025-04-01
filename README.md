@@ -1,7 +1,23 @@
 # Софья Гребнева
 ## DevOps Engineer (Cloud & Security Specialist)
 
-### Programming Languages
+[![Telegram](https://img.shields.io/badge/-@flatulek-0088cc?logo=telegram)](https://t.me/flatulek) 
+[![Email](https://img.shields.io/badge/-grebneva.sofya.nik@gmail.com-D14836?logo=gmail)](mailto:grebneva.sofya.nik@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GrebnSofyaNik-181717?logo=github)](https://github.com/GrebnSofyaNik)
+
+---
+
+### 💼 Ключевые навыки
+| **Категория**       | **Технологии**                                                                 |
+|----------------------|-------------------------------------------------------------------------------|
+| **Cloud & Orchestration** | Kubernetes (Helm, Operators), OpenShift, AWS EKS                          |
+| **Service Mesh**     | Istio (mTLS, Canary), Linkerd, Consul Connect                                |
+| **Security**         | HashiCorp Vault, cert-manager, Falco, OPA/Gatekeeper                        |
+| **CI/CD**           | ArgoCD, GitLab CI, Tekton                                                   |
+| **Monitoring**      | Prometheus (VictoriaMetrics), Grafana (Loki, Tempo), OpenTelemetry          |
+| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI)               |
+
+---### Programming Languages
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
