@@ -26,7 +26,7 @@
 - Развертывание **production-like** кластера с нуля:
   - Istio + Vault + External Secrets Operator
   - Детектирование уязвимостей через Trivy + Grype
-- Результат: Готовый шаблон для безопасного Kubernetes (используется 3 стартапами)
+- Результат: Готовый шаблон для безопасного Kubernetes
 
 #### **GitLab CI/CD для FinTech** [![Public](https://img.shields.io/badge/Public-Repo-brightgreen)]()
 - Полный цикл **security-first** пайплайна:
