@@ -10,12 +10,12 @@
 ### 💼 Ключевые навыки
 | **Категория**       | **Технологии**                                                                 |
 |----------------------|-------------------------------------------------------------------------------|
-| **Cloud & Orchestration** | Kubernetes (Helm, Operators), OpenShift, AWS EKS                          |
-| **Service Mesh**     | Istio (mTLS, Canary), Linkerd, Consul Connect                                |
-| **Security**         | HashiCorp Vault, cert-manager, Falco, OPA/Gatekeeper                        |
-| **CI/CD**           | ArgoCD, GitLab CI, Tekton                                                   |
-| **Monitoring**      | Prometheus (VictoriaMetrics), Grafana (Loki, Tempo), OpenTelemetry          |
-| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI)               |
+| **Cloud & Orchestration** | Kubernetes (Helm, Operators), OpenShift, Dropapp                         |
+| **Service Mesh**     | Istio (mTLS, Canary), vvvvvvvvvvvvvvvvvvvvvvvvv                               |
+| **Security**         | HashiCorp Vault, cert-manager, Secman                                         |
+| **CI/CD**           | ArgoCD, GitLab CI,                                                             |
+| **Monitoring**      | Prometheus (VictoriaMetrics), Grafana, Tengri                                  |
+| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI)                  |
 
 ---### Programming Languages
 
