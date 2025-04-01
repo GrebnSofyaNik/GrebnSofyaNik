@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <h1 align="center">Hi there, I'm Sofya Grebneva </h1>
-</div>
+# Софья Гребнева
+## DevOps Engineer (Cloud & Security Specialist)
 
 ### Programming Languages
 
