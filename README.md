@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-grebneva.sofya.nik@gmail.com-D14836?logo=gmail)](mailto:grebneva.sofya.nik@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GrebnSofyaNik-181717?logo=github)](https://github.com/GrebnSofyaNik)
 
-📍 **Локация:** Екатеринбург (готов к релокации в СПб/Москву)
+📍 **Локация:** Москва 
 ---
 
 ### 💼 Ключевые навыки
@@ -16,19 +16,19 @@
 | **Security**         | HashiCorp Vault, cert-manager, Secman                                         |
 | **CI/CD**           | ArgoCD, GitLab CI,                                                             |
 | **Monitoring**      | Prometheus (VictoriaMetrics), Grafana, Tengri                                  |
-| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI), Bash            |
+| **Automation**      | Terraform (модули для Vault), Ansible, Python (FastAPI + CLI), Bash, Groovy    |
 
 ---
 
 ### 🔥 Пет-проекты
 
-#### **Secure Cloud Platform** [![Private](https://img.shields.io/badge/Private-Repo-red)]()
+#### **Secure Cloud Platform*
 - Развертывание **production-like** кластера с нуля:
   - Istio + Vault + External Secrets Operator
   - Детектирование уязвимостей через Trivy + Grype
 - Результат: Готовый шаблон для безопасного Kubernetes
 
-#### **GitLab CI/CD для FinTech** [![Public](https://img.shields.io/badge/Public-Repo-brightgreen)]()
+#### **GitLab CI/CD для FinTech**
 - Полный цикл **security-first** пайплайна:
   - SAST/DAST проверки через Semgrep и OWASP ZAP
   - Подписание образов через Cosign
@@ -41,7 +41,7 @@
 Развиваться как DevOps-инженер, работать над сложными и интересными проектами
 
 ### 💡 Ожидания по зарплате
-**150 000 – 200 000 руб.**  
+**200 000 – 400 000 руб.**  
 *Обоснование:*
 - Уникальная комбинация **DevOps + Security**
 - Опыт с compliance (PCI DSS, ГОСТ Р 57580)
